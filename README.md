@@ -17,6 +17,6 @@ These are randomly generated polynomials with random non-simplex Newton polytope
 ## format description
 
 * Each CSV file represents a single polynomial in standard comma-separated values format.
-* Each line in an instance represents a monomial, with the exponent vector followed by the coefficient. For example, `0 1 1 -2` represents the monomial -2 *x*2 *x*3. The polynomial encoded in a file is the sum of the monomials encoded in each line.
+* Each line in an instance represents a monomial, with the exponent vector followed by the coefficient. For example, `0,1,1,-2` represents the monomial -2 *x*2 *x*3. The polynomial encoded in a file is the sum of the monomials encoded in each line.
 * The filenames of the `SdW` instances refer to the number of the instance in the original repository.
 * The filenames of the `sparse` instances are formatted as `[no. variables]_[degree]_[no. monomials]_[experiment no.].csv`. This is for informational purposes only, the contents of the file are sufficient to represent a unique polynomial without the filename.
