@@ -6,7 +6,7 @@ This is a collection of sparse polynomials used in the computational experiments
 
 ## overview
 
-The two folders in the repository contain the instances used the two sets of experiments:
+The two folders in the repository contain the instances used in the two sets of experiments:
 * The folder `SdW` contains the most difficult instances of the repository of Seidler and de Wolff that accompanies their paper
 > H. Seidler and T. de Wolff. An experimental comparison of SONC and SOS certificates for unconstrained optimization. arXiv preprint arXiv:1808.08431 [https://arxiv.org/abs/1808.08431](https://arxiv.org/abs/1808.08431)
 >  
